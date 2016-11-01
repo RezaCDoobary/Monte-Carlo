@@ -8,4 +8,4 @@ to which the host shows you that door number 3 is in fact a goat. The host then 
 your mind and go for number 2. The answer is in fact to change your mind, is it is probablistically favourable to win if you
 choose number 2, as its probability of being the car winning door has just gone from 1/3 to 2/3. 
 
-This is an interesting problem to apply the Monte Carlo mechanism to this.
+This is an interesting problem in which to apply the Monte Carlo simulator, albeit this being a simple problem.
